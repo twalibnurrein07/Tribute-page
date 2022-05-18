@@ -1,0 +1,54 @@
+#main{
+    background-color: hsl(0, 0%, 90%);
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin: 40px 10px;
+    border-radius: 12px;
+    
+}
+#title{
+    text-align: center;
+    
+    margin: auto 39px;
+    font-size: 50px;
+}
+.description{
+    margin:10px 39px;
+    text-align: center;
+}
+ 
+#image{
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+#img-div{
+    background-color: white;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+#img-caption{
+    text-align: center;
+}
+#img-caption{
+    margin: auto 7px;
+}
+h2{
+    text-align: center;
+}
+#tribute-info{
+    margin: 50px 22rem;
+    font-size: 18px;
+}
+.reference1{
+    margin:auto 23rem;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    
+}
